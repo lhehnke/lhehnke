@@ -4,7 +4,7 @@ I'm Lisa and I support purpose-driven organizations in tapping the potential of 
 
 Aside from problem solving and teaching, I enjoy drawing photorealistic portraits as well as taking actual portraits, rock my acoustic guitars, practice long-distance running, and make extensive use of online courses and educational resources to learn across disciplines and reach my overarching goal of becoming an amateur Leonardo da Vinci (minus the snazzy hat).
 
-<img src="https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/Leonardo_hat.png" alt="Leonardo da Vinci (with a hat)" class="center" height="350">
+<img src="https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/Leonardo_GitHub_square.png" alt="Leonardo da Vinci (with a hat)" class="center" height="300">
 
 
 
