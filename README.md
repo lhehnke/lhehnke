@@ -1,11 +1,10 @@
 ### > hello <- c('Hi', 'Ciao', 'Salut', 'Hola', 'Konnichiwa', 'Oi', 'Hej', 'Privet', 'Nǐ hǎo', 'Hai') <br> > print(hello) <br> [1] 👋
 
-I'm Lisa and I support purpose-driven organizations in tapping the potential of their data to gain actionable insights and develop human-centered strategies to maximize their impact. I also give talks and workshops on all things data as I strongly believe that people rather than numbers make a difference and drive positive change.
+I'm Lisa and I help purpose-oriented organizations create a better world by connecting analytics and human-centered design to leverage insights from data and shape the future with strategic innovations. I also facilitate workshops and give talks on future skills such as design thinking, agile project management or data and programming literacy as I strongly believe that people rather than numbers make a difference and drive positive change.
 
-Aside from problem solving and teaching, I enjoy drawing photorealistic portraits as well as taking actual portraits, rock my acoustic guitars, practice long-distance running, and make extensive use of online courses and educational resources to learn across disciplines and reach my overarching goal of becoming an amateur Leonardo da Vinci (minus the snazzy hat).
+Aside from problem solving and sharing knowledge, I enjoy drawing photorealistic portraits as well as taking actual portraits, rock my acoustic guitars, practice long-distance running, and make extensive use of online courses and educational resources to learn across disciplines and reach my overarching goal of becoming an amateur Leonardo da Vinci (minus the snazzy hat).
 
 <img src="https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/Leonardo_GitHub_square.png" alt="Leonardo da Vinci (with a hat)" class="center" height="300">
-
 
 
 <!-- #### Want to connect online?
