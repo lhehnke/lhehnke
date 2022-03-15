@@ -4,7 +4,7 @@ I'm Lisa and I help purpose-oriented organizations create a better world by conn
 
 In my spare time, I enjoy a variety of creative activities and make extensive use of online courses and educational resources to learn across disciplines and reach my overarching goal of becoming an amateur Leonardo da Vinci (minus the snazzy hat).
 
-If you're interested in co-creating change with me, you can [click here](https://lisa-hehnke.webflow.io/) to read more about my work and [here](https://lisa-hehnke.webflow.io/ethics) to find out if we make a good team.
+If you're interested in exchanging ideas or co-creating change with me, you can [click here](https://lisa-hehnke.webflow.io/) to read more about my work and [here](https://lisa-hehnke.webflow.io/ethics) to find out if we make a good team.
 
 <img src="https://raw.githubusercontent.com/lhehnke/lhehnke.github.io/master/img/Leonardo_GitHub_square.png" alt="Leonardo da Vinci (with a hat)" class="center" height="300">
 
