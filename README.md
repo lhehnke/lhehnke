@@ -1,6 +1,6 @@
 ### > hello <- c('Hi', 'Ciao', 'Salut', 'Hola', 'Konnichiwa', 'Oi', 'Hej', 'Privet', 'Nǐ hǎo', 'Hai') <br> > print(hello) <br> [1] 👋
 
-I'm Lisa and I help purpose-oriented organizations create a better world by connecting analytics and human-centered design to solve problems for good. I also facilitate workshops and give talks on future skills such as design thinking, agile frameworks or data and programming literacy to connect people who want to make a difference with the required knowledge to drive positive change.
+I'm Lisa and I help purpose-oriented organizations create a better world by connecting analytics and human-centered design to solve problems for good. I also facilitate workshops and give talks on future skills such as design thinking, agile frameworks or data and programming literacy to empower people who want to make a difference with the knowledge they need to drive positive change.
 
 In my spare time, I enjoy a variety of creative activities and make extensive use of online courses and educational resources to learn across disciplines and reach my overarching goal of becoming an amateur Leonardo da Vinci (minus the snazzy hat).
 
