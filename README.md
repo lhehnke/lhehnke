@@ -2,7 +2,7 @@
 
 I'm Lisa and I help purpose-oriented organizations create a better world by connecting analytics and human-centered design to solve problems for good. I also facilitate workshops and give talks on future skills such as design thinking, agile frameworks or data and programming literacy to empower people who want to make a difference with the knowledge they need to drive positive change.
 
-In my spare time, I enjoy a variety of creative activities and make extensive use of online courses and educational resources to learn across disciplines and reach my overarching goal of becoming an amateur Leonardo da Vinci (minus the snazzy hat).
+In my spare time, I enjoy a variety of creative activities, long-distance running, and make extensive use of online courses and educational resources to learn across disciplines and reach my overarching goal of becoming an amateur Leonardo da Vinci (minus the snazzy hat).
 
 If you're interested in exchanging ideas or co-creating change with me, you can [click here](https://lisa-hehnke.webflow.io/) to read more about my work and [here](https://lisa-hehnke.webflow.io/ethics) to find out if we make a good team.
 
